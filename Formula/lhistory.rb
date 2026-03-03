@@ -1,8 +1,8 @@
 class Lhistory < Formula
-  desc "Cross-shell command history browser with multi-column TUI"
+  desc "Cross-shell command history browser with inline TUI"
   homepage "https://github.com/richardpenner/lhistory"
-  url "https://github.com/richardpenner/lhistory/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "da3fa8e4f2047196235c06206afefe55350c211327caeceff04600fa5a67d182"
+  url "https://github.com/richardpenner/lhistory/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "dcdcb7a04ac5b12725428c52a47e816d9b1da9dd0b69451125b6341481cb54ba"
   license "MIT"
 
   def install
